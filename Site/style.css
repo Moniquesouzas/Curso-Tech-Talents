@@ -124,10 +124,10 @@ form label, form legend {
     font-size: 18px;
     border: none;
     border-radius: 5px;
-    transition: 5s 
+    transition: 5s;
     cursor: pointer;
 }
 
 .enviar:hover {
-    background darkorange;
+    background 
 }
